@@ -1,7 +1,5 @@
 # Python + Syncfusion Document SDK
 
-## Overview
-
 This sample uses Python to call Syncfusion .NET libraries to:
 
 - Add classification labels to Word, Excel and PowerPoint documents.
